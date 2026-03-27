@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Applied Generative AI Systems",
+    "slug": "applied-generative-ai-systems",
+    "category": "AI Engineering",
+    "level": "Advanced",
+    "tags": ["AI", "MERN", "LLM Ops"]
+  },
+  {
+    "title": "Productive Deep Work Studio",
+    "slug": "productive-deep-work-studio",
+    "category": "Peak Performance",
+    "level": "Intermediate",
+    "tags": ["Focus", "Analytics"]
+  }
+]
+

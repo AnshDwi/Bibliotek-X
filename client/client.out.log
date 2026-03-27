@@ -1,0 +1,151 @@
+
+> @bibliotek-x/client@1.0.0 dev
+> vite --host 0.0.0.0
+
+Port 5173 is in use, trying another one...
+
+  [32m[1mVITE[22m v6.4.1[39m  [2mready in [0m[1m633[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.27.35:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.72.1:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.116.1:[1m5174[22m/[39m
+[2m12:41:03 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m12:41:03 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx, /src/styles/index.css[22m
+[2m12:41:03 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/NotificationList.jsx, /src/styles/index.css[22m
+[2m12:41:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/quiz/AdaptiveQuizCard.jsx, /src/styles/index.css[22m
+[2m12:41:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m12:44:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx, /src/styles/index.css[22m
+[2m12:44:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m12:44:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m12:58:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m12:59:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseCard.jsx, /src/styles/index.css[22m
+[2m12:59:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherOperationsPanel.jsx, /src/styles/index.css[22m
+[2m12:59:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m2:32:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherOperationsPanel.jsx, /src/styles/index.css[22m
+[2m2:33:30 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx, /src/styles/index.css[22m
+[2m2:33:46 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherOperationsPanel.jsx, /src/styles/index.css[22m
+[2m2:39:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m2:39:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/student/NextActionCard.jsx, /src/styles/index.css[22m
+[2m2:39:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/student/StudentAttendanceCalendar.jsx, /src/styles/index.css[22m
+[2m2:39:57 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/student/StudentAttendanceCalendar.jsx[22m
+[2m2:40:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx, /src/styles/index.css[22m
+[2m2:41:06 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx[22m
+[2m2:41:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherOperationsPanel.jsx, /src/styles/index.css[22m
+[2m2:42:52 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherOperationsPanel.jsx[22m
+[2m2:43:37 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherInsightsGrid.jsx, /src/styles/index.css[22m
+[2m2:44:07 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherInsightsGrid.jsx[22m
+[2m2:44:23 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m2:45:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseCard.jsx, /src/styles/index.css[22m
+[2m2:45:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m2:45:41 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m3:01:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m3:01:30 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m3:02:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx[22m
+[2m3:02:30 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx, /src/styles/index.css[22m
+[2m3:02:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/graph/KnowledgeGraph.jsx, /src/styles/index.css[22m
+[2m3:03:17 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/graph/KnowledgeGraph.jsx[22m
+[2m3:03:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/VoiceAssistantCard.jsx, /src/styles/index.css[22m
+[2m3:03:49 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/VoiceAssistantCard.jsx[22m
+[2m3:03:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/ContentIntelligenceCard.jsx, /src/styles/index.css[22m
+[2m3:04:17 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/ContentIntelligenceCard.jsx[22m
+[2m3:04:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx, /src/styles/index.css[22m
+[2m3:05:55 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx[22m
+[2m3:06:04 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseCard.jsx, /src/styles/index.css[22m
+[2m3:06:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherOperationsPanel.jsx, /src/styles/index.css[22m
+[2m3:07:13 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m3:07:30 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx, /src/styles/index.css[22m
+[2m3:07:55 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherOperationsPanel.jsx, /src/styles/index.css[22m
+[2m3:11:52 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m3:11:57 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CollaborationCard.jsx, /src/styles/index.css[22m
+[2m3:12:16 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CollaborationCard.jsx[22m
+[2m3:13:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m3:16:10 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx, /src/styles/index.css[22m
+[2m3:16:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx[22m
+[2m3:16:30 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m3:16:49 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx[22m
+[2m3:17:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m3:17:07 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/NotificationList.jsx, /src/styles/index.css[22m
+[2m3:17:16 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/student/NextActionCard.jsx, /src/styles/index.css[22m
+[2m3:17:37 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m3:18:05 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx[22m
+[2m3:18:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx[22m
+[2m3:19:28 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m3:46:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m3:46:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx[22m
+[2m3:47:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx, /src/styles/index.css[22m
+[2m3:49:39 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m3:49:58 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx, /src/styles/index.css[22m
+[2m3:50:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m3:51:01 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m3:59:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/VoiceAssistantCard.jsx, /src/styles/index.css[22m
+[2m3:59:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/AppShell.jsx, /src/styles/index.css[22m
+[2m4:00:01 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m4:00:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx, /src/styles/index.css[22m
+[2m4:00:46 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/teacher/TeacherInsightsGrid.jsx, /src/styles/index.css[22m
+[2m4:06:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m4:06:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/KnowledgePage.jsx, /src/styles/index.css[22m
+[2m4:06:41 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/KnowledgePage.jsx[22m
+[2m4:07:54 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m4:08:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/MobileBottomNav.jsx, /src/styles/index.css[22m
+[2m4:08:07 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m4:08:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m4:08:33 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m4:08:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m4:08:53 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/App.jsx[22m
+[2m4:13:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m4:13:16 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseCard.jsx, /src/styles/index.css[22m
+[2m4:13:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/portal/ReportCardPanel.jsx, /src/styles/index.css[22m
+[2m4:14:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m4:14:18 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m4:14:26 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m4:14:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m4:16:47 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m4:17:22 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/portal/ParentReportPreview.jsx, /src/styles/index.css[22m
+[2m4:17:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/portal/ReportCardPanel.jsx, /src/styles/index.css[22m
+[2m4:37:05 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/ExamsPage.jsx, /src/styles/index.css[22m
+[2m4:37:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/ResultsPage.jsx, /src/styles/index.css[22m
+[2m4:37:39 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx, /src/styles/index.css[22m
+[2m4:38:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/common/CourseDetailsModal.jsx, /src/styles/index.css[22m
+[2m4:44:32 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m4:44:55 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/ResultsPage.jsx, /src/styles/index.css[22m
+[2m4:45:01 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/GradesPage.jsx, /src/styles/index.css[22m
+[2m4:45:46 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/portal/TimetableCard.jsx, /src/styles/index.css[22m
+[2m4:46:04 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/portal/TimetableCard.jsx[22m
+[2m4:46:07 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m4:49:39 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m4:50:39 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/AnalyticsPage.jsx, /src/styles/index.css[22m
+[2m4:50:49 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m4:50:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/portal/GuardianMeetingsPanel.jsx, /src/styles/index.css[22m
+[2m4:51:07 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/ResultsPage.jsx, /src/styles/index.css[22m
+[2m4:54:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m4:55:15 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m4:55:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m4:55:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m4:55:37 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m4:55:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m4:55:59 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/ProfilePage.jsx, /src/styles/index.css[22m
+[2m5:00:47 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m5:01:34 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m5:01:40 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m5:01:45 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m5:01:50 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m5:01:55 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m5:04:52 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m5:05:42 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m5:05:49 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m5:05:56 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m5:06:02 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m5:06:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[2m5:08:38 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/app/AppShell.jsx[22m
+[2m5:09:02 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/FeesPage.jsx, /src/styles/index.css[22m
+[2m5:09:12 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/ExamsPage.jsx, /src/styles/index.css[22m
+[2m5:09:19 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.jsx, /src/styles/index.css[22m
+[2m5:09:26 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m5:09:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m5:09:37 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m5:09:43 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m
+[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Sidebar.jsx, /src/styles/index.css[22m
+[2m5:09:31 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/layout/Topbar.jsx, /src/styles/index.css[22m
+[2m5:09:37 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/portal/CampusPage.jsx, /src/styles/index.css[22m
+[2m5:09:43 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/student/StudentDashboard.jsx, /src/styles/index.css[22m

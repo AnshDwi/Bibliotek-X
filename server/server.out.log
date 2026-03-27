@@ -1,0 +1,1045 @@
+
+> @bibliotek-x/server@1.0.0 dev
+> nodemon src/server.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mPOST /api/auth/login [32m200[0m 290.424 ms - 764[0m
+[0mGET /api/notifications [32m200[0m 194.488 ms - 336[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 213.555 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 371.924 ms - -[0m
+[0mGET /api/notifications [36m304[0m 139.896 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 119.591 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 110.463 ms - -[0m
+[0mGET /api/analytics/student [32m200[0m 626.916 ms - 767[0m
+[0mGET /api/analytics/student [36m304[0m 127.096 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [36m304[0m 108.769 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 103.716 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 150.586 ms - -[0m
+[0mGET /api/analytics/student [32m200[0m 467.759 ms - 1301[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [36m304[0m 101.087 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 84.369 ms - -[0m
+[0mGET /api/teacher/dashboard [36m304[0m 589.888 ms - -[0m
+[0mGET /api/notifications [36m304[0m 37.149 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 41.971 ms - -[0m
+[0mGET /api/teacher/dashboard [36m304[0m 481.006 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [36m304[0m 168.089 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 144.119 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 235.323 ms - -[0m
+[0mGET /api/portal [32m200[0m 347.887 ms - 35[0m
+[0mGET /api/analytics/student [36m304[0m 579.245 ms - -[0m
+[0mGET /api/collaboration/rooms/student-hub/messages [32m200[0m 41.614 ms - 15[0m
+[0mGET /api/collaboration/rooms/student-hub/messages [36m304[0m 37.743 ms - -[0m
+[0mGET /api/collaboration/rooms/student-hub/messages [36m304[0m 33.384 ms - -[0m
+[0mGET /api/collaboration/rooms/student-hub/messages [36m304[0m 31.410 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [36m304[0m 192.453 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 188.522 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 265.664 ms - -[0m
+[0mGET /api/portal [36m304[0m 507.423 ms - -[0m
+[0mGET /api/analytics/student [32m200[0m 594.101 ms - 2273[0m
+[0mGET /api/auth/me [33m401[0m 1.977 ms - 49[0m
+[0mGET /api/auth/me [33m401[0m 1.543 ms - 49[0m
+[0mPOST /api/auth/login [32m200[0m 368.321 ms - 823[0m
+[0mGET /api/notifications [36m304[0m 47.914 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 64.910 ms - -[0m
+[0mGET /api/notifications [36m304[0m 82.601 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 136.271 ms - -[0m
+[0mGET /api/portal [36m304[0m 155.383 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 89.984 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 95.782 ms - -[0m
+[0mGET /api/portal [36m304[0m 145.695 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 399.621 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 291.009 ms - -[0m
+[0mGET /api/collaboration/rooms/student-hub/messages [36m304[0m 70.696 ms - -[0m
+[0mGET /api/collaboration/rooms/student-hub/messages [36m304[0m 81.802 ms - -[0m
+[0mGET /api/notifications [36m304[0m 43.385 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 71.474 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 80.710 ms - -[0m
+[0mGET /api/portal [36m304[0m 110.181 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 320.449 ms - -[0m
+[0mGET /api/auth/me [32m200[0m 16.537 ms - 611[0m
+[0mGET /api/auth/me [36m304[0m 16.980 ms - -[0m
+[0mGET /api/notifications [36m304[0m 50.726 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 61.394 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 113.570 ms - -[0m
+[0mGET /api/notifications [36m304[0m 54.386 ms - -[0m
+[0mGET /api/portal [36m304[0m 134.768 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 59.616 ms - -[0m
+[0mGET /api/notifications [36m304[0m 50.297 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 50.315 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 90.686 ms - -[0m
+[0mGET /api/portal [36m304[0m 144.199 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 74.258 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 395.735 ms - -[0m
+[0mGET /api/portal [36m304[0m 100.747 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 167.778 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 144.066 ms - -[0m
+[0mPOST /api/auth/logout [32m204[0m 75.433 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 478.716 ms - 624[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 34.148 ms - -[0m
+[0mGET /api/notifications [32m200[0m 44.641 ms - 307[0m
+[0mGET /api/portal [32m200[0m 68.454 ms - 696[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 77.549 ms - -[0m
+[0mGET /api/notifications [36m304[0m 78.187 ms - -[0m
+[0mGET /api/portal [36m304[0m 91.931 ms - -[0m
+[0mGET /api/teacher/dashboard [32m200[0m 383.517 ms - 10187[0m
+[0mGET /api/teacher/dashboard [32m200[0m 213.876 ms - 10776[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+Connected to MongoDB
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+Connected to MongoDB
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [36m304[0m 96.739 ms - -[0m
+[0mGET /api/portal/leaves [32m200[0m 83.516 ms - 24[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 85.189 ms - -[0m
+[0mGET /api/portal/exams [32m200[0m 125.517 ms - 12[0m
+[0mGET /api/portal/fees [32m200[0m 55.640 ms - 11[0m
+[0mGET /api/portal/grades [36m304[0m 198.999 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 230.765 ms - -[0m
+[0mGET /api/portal [36m304[0m 347.040 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 285.198 ms - -[0m
+[0mPATCH /api/notifications/69c65cb7ce0ad221362e586f/read [32m200[0m 82.974 ms - 332[0m
+[0mGET /api/notifications [32m200[0m 35.295 ms - 335[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 38.155 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 46.925 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 70.781 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 42.605 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 98.355 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 58.124 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 255.302 ms - -[0m
+[0mGET /api/portal [36m304[0m 308.413 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [33m401[0m 33.088 ms - 43[0m
+[0mGET /api/portal/exams [33m401[0m 25.914 ms - 43[0m
+[0mGET /api/portal [33m401[0m 22.489 ms - 43[0m
+[0mGET /api/portal/grades [33m401[0m 22.197 ms - 43[0m
+[0mGET /api/portal/results [33m401[0m 22.159 ms - 43[0m
+[0mGET /api/analytics/leaderboard [33m401[0m 35.003 ms - 43[0m
+[0mGET /api/portal/meetings [33m401[0m 15.869 ms - 43[0m
+[0mGET /api/portal/fees [33m401[0m 16.239 ms - 43[0m
+[0mGET /api/teacher/dashboard [33m401[0m 14.435 ms - 43[0m
+[0mGET /api/portal/leaves [33m401[0m 19.937 ms - 43[0m
+[0mGET /api/auth/me [33m401[0m 15.204 ms - 43[0m
+[0mGET /api/auth/me [33m401[0m 11.724 ms - 43[0m
+[0mPOST /api/auth/login [32m200[0m 396.424 ms - 624[0m
+[0mGET /api/notifications [32m200[0m 84.036 ms - 336[0m
+[0mGET /api/analytics/leaderboard [32m200[0m 85.134 ms - 484[0m
+[0mGET /api/portal/fees [32m200[0m 61.749 ms - 277[0m
+[0mGET /api/portal/grades [32m200[0m 191.565 ms - 1790[0m
+[0mGET /api/portal/meetings [32m200[0m 93.240 ms - 378[0m
+[0mGET /api/portal/exams [32m200[0m 173.373 ms - 812[0m
+[0mGET /api/portal/results [32m200[0m 187.440 ms - 2805[0m
+[0mGET /api/portal/leaves [32m200[0m 70.260 ms - 410[0m
+[0mGET /api/notifications [36m304[0m 79.836 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 101.214 ms - -[0m
+[0mGET /api/courses/me/enrollments [32m200[0m 165.818 ms - 6688[0m
+[0mGET /api/portal/fees [36m304[0m 100.317 ms - -[0m
+[0mGET /api/analytics/student [32m200[0m 228.871 ms - 2798[0m
+[0mGET /api/portal/meetings [36m304[0m 137.691 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 198.818 ms - -[0m
+[0mGET /api/portal [32m200[0m 558.465 ms - 2087[0m
+[0mGET /api/portal/exams [36m304[0m 185.077 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 111.418 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 200.005 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 148.062 ms - -[0m
+[0mGET /api/portal [36m304[0m 290.637 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 314.119 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[0mGET /api/auth/me [32m200[0m 106.845 ms - 760[0m
+[0mGET /api/auth/me [36m304[0m 41.687 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 124.135 ms - -[0m
+[0mGET /api/notifications [36m304[0m 143.194 ms - -[0m
+[0mGET /api/portal [36m304[0m 215.038 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 86.653 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 291.143 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 277.441 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 131.091 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 139.312 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 142.135 ms - -[0m
+[0mGET /api/notifications [36m304[0m 122.794 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 93.916 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 455.562 ms - -[0m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [36m304[0m 147.324 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 134.475 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 194.259 ms - -[0m
+[0mGET /api/portal [36m304[0m 162.823 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 155.749 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 148.270 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 61.656 ms - -[0m
+[0mGET /api/portal/hostel [32m200[0m 34.888 ms - 19[0m
+[0mGET /api/portal/transport [32m200[0m 38.994 ms - 22[0m
+[0mGET /api/portal/documents [36m304[0m 62.925 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 58.119 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 308.501 ms - -[0m
+[0mGET /api/teacher/dashboard [36m304[0m 561.919 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [32m200[0m 104.549 ms - 335[0m
+[0mGET /api/portal/fees [36m304[0m 81.965 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 82.698 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 181.937 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 65.178 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 196.360 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 105.849 ms - -[0m
+[0mGET /api/portal/hostel [36m304[0m 51.408 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 60.493 ms - -[0m
+[0mGET /api/portal/transport [36m304[0m 62.152 ms - -[0m
+[0mGET /api/portal/placements [36m304[0m 55.005 ms - -[0m
+[0mGET /api/portal/library [32m200[0m 45.998 ms - 21[0m
+[0mGET /api/portal/internships [36m304[0m 96.994 ms - -[0m
+[0mGET /api/portal [36m304[0m 377.617 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 263.527 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 214.030 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 451.419 ms - -[0m
+[0mPOST /api/auth/logout [32m204[0m 92.716 ms - -[0m
+[0mPOST /api/auth/login [32m200[0m 304.542 ms - 781[0m
+[0mGET /api/notifications [32m200[0m 72.690 ms - 307[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 76.084 ms - -[0m
+[0mGET /api/portal/results [32m200[0m 105.865 ms - 183[0m
+[0mGET /api/portal/grades [32m200[0m 114.252 ms - 13[0m
+[0mGET /api/portal [32m200[0m 137.629 ms - 1446[0m
+[0mGET /api/portal/exams [32m200[0m 113.874 ms - 1046[0m
+[0mGET /api/portal/fees [32m200[0m 111.050 ms - 880[0m
+[0mGET /api/portal/leaves [32m200[0m 95.932 ms - 702[0m
+[0mGET /api/portal/meetings [32m200[0m 77.911 ms - 743[0m
+[0mGET /api/portal/documents [32m200[0m 88.474 ms - 840[0m
+[0mGET /api/portal/hostel [32m200[0m 77.403 ms - 482[0m
+[0mGET /api/portal/transport [32m200[0m 95.829 ms - 506[0m
+[0mGET /api/portal/placements [32m200[0m 116.326 ms - 523[0m
+[0mGET /api/portal/library [36m304[0m 84.012 ms - -[0m
+[0mGET /api/notifications [36m304[0m 84.487 ms - -[0m
+[0mGET /api/portal/internships [32m200[0m 142.576 ms - 474[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 62.605 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 80.749 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 90.405 ms - -[0m
+[0mGET /api/portal [36m304[0m 90.105 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 82.518 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 87.274 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 172.740 ms - -[0m
+[0mGET /api/portal/transport [36m304[0m 169.825 ms - -[0m
+[0mGET /api/portal/hostel [36m304[0m 179.463 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 185.475 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 199.248 ms - -[0m
+[0mGET /api/portal/library [36m304[0m 55.449 ms - -[0m
+[0mGET /api/portal/placements [36m304[0m 86.271 ms - -[0m
+[0mGET /api/portal/internships [36m304[0m 94.352 ms - -[0m
+[0mGET /api/teacher/dashboard [32m200[0m 729.910 ms - 19786[0m
+[0mGET /api/teacher/dashboard [32m200[0m 243.440 ms - 20439[0m
+[0mGET /api/auth/me [33m401[0m 1.297 ms - 49[0m
+[0mGET /api/auth/me [33m401[0m 0.778 ms - 49[0m
+[0mPOST /api/auth/login [32m200[0m 197.140 ms - 829[0m
+[0mGET /api/notifications [32m200[0m 49.517 ms - 336[0m
+[0mGET /api/analytics/leaderboard [32m200[0m 60.181 ms - 484[0m
+[0mGET /api/portal/fees [32m200[0m 34.170 ms - 277[0m
+[0mGET /api/portal [32m200[0m 95.461 ms - 2087[0m
+[0mGET /api/portal/exams [32m200[0m 98.573 ms - 812[0m
+[0mGET /api/portal/grades [32m200[0m 116.581 ms - 1790[0m
+[0mGET /api/portal/leaves [32m200[0m 63.476 ms - 410[0m
+[0mGET /api/portal/results [32m200[0m 128.056 ms - 2805[0m
+[0mGET /api/portal/documents [32m200[0m 57.799 ms - 423[0m
+[0mGET /api/portal/meetings [32m200[0m 66.208 ms - 378[0m
+[0mGET /api/portal/transport [32m200[0m 60.530 ms - 263[0m
+[0mGET /api/portal/hostel [32m200[0m 66.225 ms - 249[0m
+[0mGET /api/portal/placements [32m200[0m 49.497 ms - 275[0m
+[0mGET /api/portal/internships [32m200[0m 62.558 ms - 250[0m
+[0mGET /api/portal/library [32m200[0m 57.463 ms - 316[0m
+[0mGET /api/notifications [36m304[0m 39.502 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 47.866 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 46.679 ms - -[0m
+[0mGET /api/courses/me/enrollments [32m200[0m 84.657 ms - 6688[0m
+[0mGET /api/portal [36m304[0m 301.296 ms - -[0m
+[0mGET /api/analytics/student [32m200[0m 371.135 ms - 2798[0m
+[0mGET /api/portal/exams [36m304[0m 311.310 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 288.725 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 497.910 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 502.027 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 197.614 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 144.139 ms - -[0m
+[0mGET /api/portal/transport [36m304[0m 150.986 ms - -[0m
+[0mGET /api/portal/hostel [36m304[0m 109.061 ms - -[0m
+[0mGET /api/portal/placements [36m304[0m 64.961 ms - -[0m
+[0mGET /api/portal/internships [36m304[0m 58.543 ms - -[0m
+[0mGET /api/portal/library [36m304[0m 55.842 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 71.227 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 110.419 ms - -[0m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+0m
+[0mGET /api/portal/results [36m304[0m 106.741 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 274.899 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 154.531 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/auth/me [36m304[0m 24.043 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 12.862 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 15.573 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 17.963 ms - -[0m
+[0mGET /api/notifications [36m304[0m 31.037 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 44.853 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 44.464 ms - -[0m
+[0mGET /api/notifications [36m304[0m 32.154 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 71.235 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 113.283 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 125.131 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 25.347 ms - -[0m
+[0mGET /api/portal/documents [32m200[0m 21.360 ms - 15[0m
+[0mGET /api/portal/meetings [36m304[0m 45.043 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 46.557 ms - -[0m
+[0mGET /api/notifications [36m304[0m 40.495 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 92.693 ms - -[0m
+[0mGET /api/portal [36m304[0m 260.304 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 257.405 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 69.666 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 40.978 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 25.577 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 94.253 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 51.840 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 45.738 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 97.732 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 818.393 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 652.692 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 612.261 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 619.090 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 630.591 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 48.656 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 108.024 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 118.185 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 79.072 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 125.679 ms - -[0m
+[0mGET /api/portal [36m304[0m 804.315 ms - -[0m
+[0mGET /api/portal [36m304[0m 67.717 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 196.992 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 119.166 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 15.518 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 13.663 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 13.487 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 22.587 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 20.041 ms - -[0m
+[0mGET /api/auth/me [36m304[0m 13.338 ms - -[0m
+[0mGET /api/notifications [36m304[0m 39.109 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 52.552 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 62.468 ms - -[0m
+[0mGET /api/portal [36m304[0m 131.162 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 122.231 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 151.867 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 83.157 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 37.053 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 167.596 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 58.450 ms - -[0m
+[0mGET /api/notifications [36m304[0m 44.086 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 41.481 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 89.736 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 45.382 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 41.009 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 129.489 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 58.087 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 74.609 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 91.852 ms - -[0m
+[0mGET /api/notifications [36m304[0m 27.149 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 30.484 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 46.861 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 686.707 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 633.871 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 654.982 ms - -[0m
+[0mGET /api/portal [36m304[0m 831.108 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 698.612 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 59.738 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 731.910 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 93.789 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 74.805 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 102.737 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 97.064 ms - -[0m
+[0mGET /api/portal [36m304[0m 72.494 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 51.938 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 88.873 ms - -[0m
+[0mGET /api/auth/me [33m401[0m 1.660 ms - 49[0m
+[0mGET /api/auth/me [33m401[0m 0.842 ms - 49[0m
+[0mPOST /api/auth/login [32m200[0m 176.342 ms - 829[0m
+[0mGET /api/analytics/leaderboard [32m200[0m 65.580 ms - 484[0m
+[0mGET /api/notifications [32m200[0m 72.244 ms - 336[0m
+[0mGET /api/portal [32m200[0m 138.940 ms - 2087[0m
+[0mGET /api/portal/fees [32m200[0m 50.011 ms - 277[0m
+[0mGET /api/portal/results [32m200[0m 154.437 ms - 2805[0m
+[0mGET /api/portal/exams [32m200[0m 125.104 ms - 812[0m
+[0mGET /api/portal/leaves [32m200[0m 78.106 ms - 410[0m
+[0mGET /api/portal/grades [32m200[0m 174.240 ms - 1790[0m
+[0mGET /api/portal/meetings [32m200[0m 70.081 ms - 378[0m
+[0mGET /api/portal/documents [32m200[0m 72.762 ms - 423[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 67.269 ms - -[0m
+[0mGET /api/notifications [36m304[0m 62.355 ms - -[0m
+[0mGET /api/courses/me/enrollments [32m200[0m 110.731 ms - 6688[0m
+[0mGET /api/portal/fees [36m304[0m 70.907 ms - -[0m
+[0mGET /api/analytics/student [32m200[0m 206.513 ms - 2798[0m
+[0mGET /api/portal [36m304[0m 152.987 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 109.756 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 135.304 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 153.289 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 429.335 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 413.643 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 416.234 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 437.849 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 465.863 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mPOST /api/auth/logout [32m204[0m 174.897 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mPATCH /api/notifications/69c66bb7cdba2d77349c6e3c/read [32m200[0m 75.431 ms - 332[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+r file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mPOST /api/auth/login [32m200[0m 149.897 ms - 781[0m
+[0mGET /api/notifications [32m200[0m 40.532 ms - 307[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 38.113 ms - -[0m
+[0mGET /api/portal/results [32m200[0m 67.067 ms - 183[0m
+[0mGET /api/portal/grades [32m200[0m 73.063 ms - 13[0m
+[0mGET /api/portal [32m200[0m 85.358 ms - 1446[0m
+[0mGET /api/portal/exams [32m200[0m 82.464 ms - 1046[0m
+[0mGET /api/portal/fees [32m200[0m 68.784 ms - 880[0m
+[0mGET /api/notifications [36m304[0m 30.060 ms - -[0m
+[0mGET /api/portal/meetings [32m200[0m 60.427 ms - 743[0m
+[0mGET /api/portal/documents [32m200[0m 60.523 ms - 840[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 61.058 ms - -[0m
+[0mGET /api/portal/results [36m304[0m 261.726 ms - -[0m
+[0mGET /api/portal [36m304[0m 268.263 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 273.540 ms - -[0m
+[0mGET /api/portal/exams [36m304[0m 260.943 ms - -[0m
+[0mGET /api/portal/leaves [32m200[0m 422.763 ms - 702[0m
+[0mGET /api/portal/fees [36m304[0m 80.027 ms - -[0m
+[0mGET /api/portal/meetings [36m304[0m 69.616 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 110.199 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 102.398 ms - -[0m
+[0mGET /api/teacher/dashboard [32m200[0m 707.986 ms - 19755[0m
+[0mGET /api/teacher/dashboard [32m200[0m 615.907 ms - 20408[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+Bibliotek X API listening on port 5000
+[0mGET /api/notifications [33m401[0m 23.967 ms - 43[0m
+[0mGET /api/analytics/leaderboard [33m401[0m 27.062 ms - 43[0m
+[0mGET /api/portal [33m401[0m 25.781 ms - 43[0m
+[0mGET /api/portal/grades [33m401[0m 26.183 ms - 43[0m
+[0mGET /api/portal/results [33m401[0m 30.234 ms - 43[0m
+[0mGET /api/portal/exams [33m401[0m 20.386 ms - 43[0m
+[0mGET /api/portal/fees [33m401[0m 17.796 ms - 43[0m
+[0mGET /api/portal/leaves [33m401[0m 11.813 ms - 43[0m
+[0mGET /api/portal/meetings [33m401[0m 11.688 ms - 43[0m
+[0mGET /api/portal/documents [33m401[0m 11.412 ms - 43[0m
+[0mGET /api/portal/placements [33m401[0m 10.617 ms - 43[0m
+[0mGET /api/portal/transport [33m401[0m 15.909 ms - 43[0m
+[0mGET /api/portal/internships [33m401[0m 20.218 ms - 43[0m
+[0mGET /api/portal/hostel [33m401[0m 16.250 ms - 43[0m
+[0mGET /api/teacher/dashboard [33m401[0m 14.567 ms - 43[0m
+[0mGET /api/auth/me [33m401[0m 13.054 ms - 43[0m
+[0mGET /api/auth/me [33m401[0m 12.133 ms - 43[0m
+[0mPOST /api/auth/login [32m200[0m 322.857 ms - 829[0m
+[0mGET /api/notifications [32m200[0m 65.691 ms - 336[0m
+[0mGET /api/analytics/leaderboard [32m200[0m 70.329 ms - 484[0m
+[0mGET /api/portal/exams [32m200[0m 156.349 ms - 812[0m
+[0mGET /api/portal/grades [32m200[0m 174.910 ms - 1790[0m
+[0mGET /api/portal/results [32m200[0m 198.639 ms - 2805[0m
+[0mGET /api/portal/leaves [32m200[0m 102.153 ms - 410[0m
+[0mGET /api/portal/meetings [32m200[0m 70.490 ms - 378[0m
+[0mGET /api/portal/documents [32m200[0m 72.475 ms - 423[0m
+[0mGET /api/portal/placements [32m200[0m 86.202 ms - 275[0m
+[0mGET /api/portal/fees [32m200[0m 255.941 ms - 277[0m
+[0mGET /api/portal [32m200[0m 384.772 ms - 2087[0m
+[0mGET /api/portal/transport [32m200[0m 125.539 ms - 263[0m
+[0mGET /api/portal/internships [32m200[0m 91.183 ms - 250[0m
+[0mGET /api/notifications [36m304[0m 36.365 ms - -[0m
+[0mGET /api/analytics/leaderboard [36m304[0m 43.162 ms - -[0m
+[0mGET /api/courses/me/enrollments [32m200[0m 98.410 ms - 6688[0m
+[0mGET /api/portal/exams [36m304[0m 105.033 ms - -[0m
+[0mGET /api/portal/hostel [32m200[0m 319.463 ms - 249[0m
+[0mGET /api/portal/results [36m304[0m 190.481 ms - -[0m
+[0mGET /api/portal/grades [36m304[0m 211.939 ms - -[0m
+[0mGET /api/portal/leaves [36m304[0m 183.427 ms - -[0m
+[0mGET /api/analytics/student [32m200[0m 502.897 ms - 2798[0m
+[0mGET /api/portal/meetings [36m304[0m 168.832 ms - -[0m
+[0mGET /api/portal/documents [36m304[0m 152.934 ms - -[0m
+[0mGET /api/portal/fees [36m304[0m 101.966 ms - -[0m
+[0mGET /api/portal/placements [36m304[0m 132.755 ms - -[0m
+[0mGET /api/portal [36m304[0m 214.572 ms - -[0m
+[0mGET /api/portal/transport [36m304[0m 141.933 ms - -[0m
+[0mGET /api/portal/internships [36m304[0m 140.980 ms - -[0m
+[0mGET /api/portal/hostel [36m304[0m 123.116 ms - -[0m
+[0mGET /api/courses/me/enrollments [36m304[0m 191.814 ms - -[0m
+[0mGET /api/analytics/student [36m304[0m 285.897 ms - -[0m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting child process[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Connected to MongoDB
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
