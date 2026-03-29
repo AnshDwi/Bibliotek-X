@@ -2,6 +2,9 @@
 
 Bibliotek X is a production-oriented MERN Learning Operating System built for modern learning workflows, recruiter demos, and extensible AI experimentation. It combines authentication, course delivery, adaptive learning, collaboration, analytics, and AI-powered content intelligence in one modular platform.
 
+## Live App 
+Link : https://bibliotek-x-client-rdltq0apc-anshdwis-projects.vercel.app/login
+
 ## Stack
 
 - MongoDB + Mongoose
