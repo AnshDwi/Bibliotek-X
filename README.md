@@ -57,6 +57,20 @@ Bibliotek X/
    npm run seed
    ```
 
+   ##  Screenshots
+
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 📝 Register
+![Register](screenshots/register.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard1.png)
+
+### 📊 Dashboard 2
+![Dashboard](screenshots/dashboard2.png)
+
 ## Deployment
 
 Deployment guidance is available in [`docs/deployment.md`](./docs/deployment.md).
