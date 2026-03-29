@@ -59,17 +59,19 @@ Bibliotek X/
 
    ##  Screenshots
 
-### 🔐 Login
-![Login](screenshots/login.png)
+## 📸 Screenshots
 
-### 📝 Register
-![Register](screenshots/register.png)
+<p align="center">
+  <img src="screenshots/login.png" width="600"/>
+</p>
 
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard1.png)
+<p align="center">
+  <img src="screenshots/register.png" width="600"/>
+</p>
 
-### 📊 Dashboard 2
-![Dashboard](screenshots/dashboard2.png)
+<p align="center">
+  <img src="screenshots/dashboard1.png" width="600"/>
+</p>
 
 ## Deployment
 
